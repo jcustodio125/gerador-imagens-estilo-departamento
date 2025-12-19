@@ -1,0 +1,25 @@
+# Ambiente virtual
+venv/
+.env/
+.venv/
+
+# Pastas de entrada e saída de imagens
+input/
+output/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos de build / distribuição
+build/
+dist/
+*.egg-info/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# IDEs / editores
+.vscode/
+.idea/
